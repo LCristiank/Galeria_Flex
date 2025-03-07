@@ -1,5 +1,5 @@
 # Galeria de Arvore em Grid
-![](./Grid/previewFLex.png)
+![](./previewFlex.png)
 
 ## Projeto
 Galeria de bolos usando Flex;
