@@ -1,4 +1,4 @@
-# Galeria de Arvore em Grid
+# Galeria de Arvore em Flex
 ![](./previewFlex.png)
 
 ## Projeto
