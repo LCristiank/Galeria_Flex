@@ -1,5 +1,5 @@
 # Galeria de Arvore em Flex
-![](./previewFlex.png)
+![](./img/previewFlex.png)
 
 ## Projeto
 Galeria de bolos usando Flex;
@@ -9,3 +9,6 @@ Galeria de bolos usando Flex;
 * CSS
 * GIT
 * Markdown
+
+## Autor
+[Luan Cristian](<https://github.com/LCristiank>)
